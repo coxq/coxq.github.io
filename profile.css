@@ -24,7 +24,7 @@ body {
   width: 100px;
   height: 100px;
   border-radius: 50%;
-  background: url(../img/x.jpg);
+  background: url(x.jpg);
   background-size: cover;
   background-position: center;
   margin-right: 20px;
